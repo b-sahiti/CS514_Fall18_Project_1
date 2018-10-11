@@ -2,4 +2,6 @@
 Macroscopic behavior of TCP Congestion Avoidance Algorithm
 
 cmd -
-sudo python topo.py
+sudo python topofig3.py
+sudo python topofig4.py
+sudo python topofig5.py
